@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: blue;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.d1 {
+  background-color: #fff;
+  width: 300px;
+  border-radius: 15px;
+  border: 2px solid #000;
+  padding: 10px;
+  text-align: center;
+}
+.img {
+  width: 60%;
+  margin-left: 30px;
+}
+.btn {
+  background-color: blue;
+  color: #000;
+  padding: 10px;
+  border-radius: 10px;
+  border: none;
+  font-size: 20px;
+}
